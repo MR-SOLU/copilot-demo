@@ -1,2 +1,2 @@
-def calculate_area(radius):
-    return 3.14159 * radius * radius
+def add(a, b):
+    return a + b                           
